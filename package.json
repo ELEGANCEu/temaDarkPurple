@@ -3,7 +3,7 @@
   "displayName": "ELEGANCEu-DarkPurpleTheme",
   "description": "Dark Purple Tema",
   "version": "0.0.1",
-  "publisher": "jvferreirapessoa2",
+  "publisher": "ELEGANCEu",
   "engines": {
     "vscode": "^1.82.0"
   },
@@ -15,7 +15,7 @@
       {
         "label": "ELEGANCEu",
         "uiTheme": "vs-dark",
-        "id": "jvferreirapessoa2",
+        "id": "ELEGANCEu",
         "path": "./themes/ELEGANCEu-color-theme.json"
       }
     ]
