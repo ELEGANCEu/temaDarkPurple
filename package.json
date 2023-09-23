@@ -1,0 +1,33 @@
+{
+  "name": "eleganceu-darkpurpletheme",
+  "displayName": "ELEGANCEu-DarkPurpleTheme",
+  "description": "Dark Purple Tema",
+  "version": "0.0.1",
+  "publisher": "jvferreirapessoa2",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ELEGANCEu",
+        "uiTheme": "vs-dark",
+        "id": "jvferreirapessoa2",
+        "path": "./themes/ELEGANCEu-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "DarkPurpleTheme",
+    "Theme",
+    "Brasil"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ELEGANCEu/temaDarkPurple"
+  },
+  "icon": "icon.jpg"
+}
